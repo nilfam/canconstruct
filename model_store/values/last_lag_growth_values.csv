@@ -1,0 +1,49 @@
+Region,Building Type,lag_growth_2024
+Auckland Region,Commercial,-0.06922076892288942
+Auckland Region,Education,-0.3221199605051446
+Auckland Region,Farm,0.33035523702592684
+Auckland Region,Healthcare,0.24215805673125956
+Auckland Region,Industrial,-0.23659282193151654
+Auckland Region,Residential,-0.10978808935528761
+Auckland Region,Sociocultural,0.8054483135404666
+Auckland Region,Temporary Accommodation,0.09696825527099051
+Canterbury Region,Commercial,0.3309704840647427
+Canterbury Region,Education,-0.41578465005912335
+Canterbury Region,Farm,-0.136449741219014
+Canterbury Region,Healthcare,-0.3560392419061422
+Canterbury Region,Industrial,0.17094937381339648
+Canterbury Region,Residential,-0.08509117674288902
+Canterbury Region,Sociocultural,0.4588799544047575
+Canterbury Region,Temporary Accommodation,0.06397981082355031
+Rest of North Island,Commercial,-0.06607818334913063
+Rest of North Island,Education,0.04090129958058597
+Rest of North Island,Farm,-0.034095175350280726
+Rest of North Island,Healthcare,-0.608244829890193
+Rest of North Island,Industrial,0.09643420982976991
+Rest of North Island,Residential,-0.12238626086491422
+Rest of North Island,Sociocultural,-0.363570486950632
+Rest of North Island,Temporary Accommodation,0.21064514089140474
+Rest of South Island,Commercial,0.18559217014712814
+Rest of South Island,Education,-0.3646393613759926
+Rest of South Island,Farm,-0.1575793599695352
+Rest of South Island,Healthcare,0.12266696470128835
+Rest of South Island,Industrial,0.07121676303675173
+Rest of South Island,Residential,-0.013141332907427028
+Rest of South Island,Sociocultural,0.3607846134768735
+Rest of South Island,Temporary Accommodation,-0.2335188089103255
+Waikato Region,Commercial,-0.10977967194818206
+Waikato Region,Education,0.1962334479822374
+Waikato Region,Farm,-0.1323464787841786
+Waikato Region,Healthcare,0.13807834271199937
+Waikato Region,Industrial,-0.4985142105471958
+Waikato Region,Residential,-0.1979589274025031
+Waikato Region,Sociocultural,-0.9012865311229206
+Waikato Region,Temporary Accommodation,0.19701565045690828
+Wellington Region,Commercial,0.4605885544309878
+Wellington Region,Education,-0.20139949235617038
+Wellington Region,Farm,-0.16387282431510286
+Wellington Region,Healthcare,-0.46616546120758784
+Wellington Region,Industrial,0.15070594765434464
+Wellington Region,Residential,-0.2906999357166917
+Wellington Region,Sociocultural,-0.6330237913740113
+Wellington Region,Temporary Accommodation,1.1979725536991754
